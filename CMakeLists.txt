@@ -8,6 +8,8 @@ add_message_files(
   FILES
   TwoWayRangeStamped.msg
   TDOARangesStamped.msg
+  UwbAnchor.msg
+  UwbAnchorArrayStamped.msg
 )
 
 generate_messages(
