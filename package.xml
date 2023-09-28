@@ -3,7 +3,7 @@
   <version>0.0.1</version>
   <description> ROS messages for UWB ranging</description>
   <maintainer email="roland.jung@aau.at">Roland Jung</maintainer>
-  <license>BSD</license>
+  <license>GPLv3</license>
 
   <url type="website">https://gitlab.aau.at/aau-cns/ros_pkgs/uwb_msgs</url>
   <url type="repository">https://gitlab.aau.at/aau-cns/ros_pkgs/uwb_msgs</url>
